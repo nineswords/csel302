@@ -6,7 +6,7 @@ Welcome to my compilation of activities and projects! Below, you'll find a summa
 
 ## Table of Contents
 
-1. [Computer Courses](#computer-courses)
+1. [Computer Courses](<a href="file2.md" target="_blank">Go to file2.md</a>)
 2. [Data Science](#data-science)
 3. [Machine Learning](#machine-learning)
 4. [Quantitative Methods](#quantitative-methods)
